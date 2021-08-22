@@ -1,5 +1,5 @@
 import React from 'react';
-import Style from './Toggler.module.scss';
+import Style from '../Toggler.module.scss';
 
 export default function Toggler({darkMode, handleClick}) {
 

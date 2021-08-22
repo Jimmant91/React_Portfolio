@@ -1,5 +1,5 @@
 import React from 'react';
-import Style from './Home.module.scss';
+import Style from '../Home.module.scss';
 import classNames from 'classnames';
 import  {info} from './Info';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import Style from './About.module.scss';
+import Style from '../About.module.scss';
 import classNames from 'classnames';
 import {info, colors} from './Info';
 

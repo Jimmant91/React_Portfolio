@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import Style from './BaseLayout.module.scss'
+import Style from '../BaseLayout.module.scss'
 import classNames from 'classnames';
 import Navbar from "./Navbar";
 import {Switch, Route} from 'react-router-dom';
