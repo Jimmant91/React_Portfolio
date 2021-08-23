@@ -1,5 +1,7 @@
 import React from 'react';
 import self from '../img/self.png';
+import Link from "react-download-link"
+import { getMaxListeners } from 'commander';
 
 export let colors = ["rgb(185, 85, 211)", "rgb(247, 10, 7)"];
 
@@ -14,7 +16,7 @@ export const info = {
         ["☕️", "Fueled by coffee"],
         ["NC", "Based in Raleigh"],
         ["💼", "Freelance Developer"],
-        ["✉️", "jimmy.antley@gmail.com"],
+        ["✉️", <a href="mailto:jimmy.antley@gmail.com" target="_blank">jimmy.antley@gmail.com</a>],
     ],
     socials: [
         ["https://github.com/jimmant91", githubIcon()],
@@ -49,9 +51,9 @@ export const info = {
             description: "",
         },
         {
-            title: "Project 4",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            title: "Team Profile Generator",
+            liveLink: "https://www.youtube.com/watch?v=GZVP_ZhCrBU",
+            sourceLink: "https://github.com/Jimmant91/Team_Profile_Generator",
             description: "",
         },
     ]
