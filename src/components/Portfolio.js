@@ -1,6 +1,6 @@
 import React from 'react';
 import Style from '../Portfolio.module.scss';
-import mock1 from '../img/mock1.png';
+import theTailorist from '../img/theTailorist.png';
 import mock2 from '../img/mock2.png';
 import mock3 from '../img/mock3.png';
 import mock4 from '../img/mock4.png';
@@ -10,7 +10,7 @@ import {info, colors} from './Info';
 export default function Portfolio() {
     let portfolioInfo = info.portfolio;
 
-    let mocks = [mock1, mock2, mock3, mock4];
+    let mocks = [theTailorist, mock2, mock3, mock4];
 
     function createGrid() {
         let results = [];
