@@ -38,7 +38,7 @@ export const info = {
         ["https://instagram.com/jame.antle", instagramIcon()],
         ["https://open.spotify.com/user/jimmysideburns?si=55c8f387a37141b3", spotifyIcon()]
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: " I'm a Virginia native, but have lived in North Carolina most of my life. I graduated from UNC Charlotte in 2013 with a Sociological Psych. degree. Since then, I have been a working professional in the field of scholarly publishing, which in turn, has made me more focused on my career as a developer. From 2020 til today, I've been focuing on web-development at my current position and have taught myself some of the basic fundamentals of JavaScript. I graduated from the UNC Coding Bootcamp in September of 2021 and am now a professional developer seeking full-time work!",
     hobbies: [
         ["📖", "reading"], // Same as above, change the emojis to match / relate to your hobbies or interests.
         ["🎥", "movies"],
