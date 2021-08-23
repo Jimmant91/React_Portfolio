@@ -34,21 +34,25 @@ export const info = {
             title: "The Tailorist",
             liveLink: "https://anneliserowan.github.io/the-tailorist/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             sourceLink: "https://github.com/Jimmant91/the-tailorist", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
+            description: "",
         },
         {
-            title: "Project 2",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            title: "Workout Tracker",
+            liveLink: "https://obscure-spire-84126.herokuapp.com/?id=6111f1c1bbdf67001553b746",
+            sourceLink: "https://github.com/Jimmant91/Workout_Tracker",
+            description: "",
         },
         {
-            title: "Project 3",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            title: "Weather Dashboard",
+            liveLink: "https://jimmant91.github.io/Weather_Dashboard/",
+            sourceLink: "https://github.com/Jimmant91/Weather_Dashboard",
+            description: "",
         },
         {
             title: "Project 4",
             liveLink: "https://paytonjewell.dev",
             sourceLink: "https://paytonjewell.dev",
+            description: "",
         },
     ]
 }

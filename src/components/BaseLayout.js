@@ -19,7 +19,7 @@ export default function BaseLayout() {
             <Navbar darkMode={darkMode} handleClick={handleClick}/>
             <Main />
             <footer>
-                <p> <a target="_blank" rel="noopener noreferrer" href="https://paytonjewell.github.io/">Template made with &hearts; by PJ</a></p>
+                <p> <a target="_blank" rel="noopener noreferrer" href="https://github.com/paytonjewell/ReactPortfolioTemplate">Template Credit to PJ</a></p>
                 <p>&copy; 2020</p>
             </footer>
         </div>

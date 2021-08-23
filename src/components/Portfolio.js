@@ -1,16 +1,16 @@
 import React from 'react';
 import Style from '../Portfolio.module.scss';
 import theTailorist from '../img/theTailorist.png';
-import mock2 from '../img/mock2.png';
-import mock3 from '../img/mock3.png';
-import mock4 from '../img/mock4.png';
+import workoutTracker from '../img/workoutTracker.png';
+import weatherDashboard from '../img/weatherDashboard.png';
+import teamGenerator from '../img/teamGenerator.png';
 import {info, colors} from './Info';
 
 
 export default function Portfolio() {
     let portfolioInfo = info.portfolio;
 
-    let mocks = [theTailorist, mock2, mock3, mock4];
+    let mocks = [theTailorist, workoutTracker, weatherDashboard, teamGenerator];
 
     function createGrid() {
         let results = [];
@@ -21,6 +21,8 @@ export default function Portfolio() {
                         <a target="_blank" rel="noopener noreferrer" href={info.portfolio[i].liveLink}><img className={Style.image} src={mocks[j++]}/></a>
                         <h1>{info.portfolio[i].title}</h1>
                         <a target="_blank" rel="noopener noreferrer" href={info.portfolio[i].sourceLink} style={{backgroundColor: colors[1]}} className={Style.source}>Source Code</a>
+                        <br></br>
+                        <p>{info.portfolio[i].description}</p>
                     </div>
                 )
         }
