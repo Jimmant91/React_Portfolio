@@ -56,9 +56,9 @@ export const info = {
             description: "",
         },
         {
-            title: "Note Taker",
-            liveLink: "https://fast-sierra-79700.herokuapp.com/notes",
-            sourceLink: "https://github.com/Jimmant91/Note_Taker",
+            title: "Herb Your Enthusiasm",
+            liveLink: "https://herb-your-enthusiasm.herokuapp.com/",
+            sourceLink: "https://github.com/Jimmant91/herb-your-enthusiasm",
             description: "",
         },
         {

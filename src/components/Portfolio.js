@@ -4,7 +4,7 @@ import theTailorist from '../img/theTailorist.png';
 import workoutTracker from '../img/workoutTracker.png';
 import weatherDashboard from '../img/weatherDashboard.png';
 import teamGenerator from '../img/teamGenerator.png';
-import noteTaker from '../img/noteTaker.png'
+import herbYourEnthusiasm from '../img/herbYourEnthusiasm.png'
 import followTheReader from '../img/followTheReader.png'
 import {info, colors} from './Info';
 
@@ -12,7 +12,7 @@ import {info, colors} from './Info';
 export default function Portfolio() {
     let portfolioInfo = info.portfolio;
 
-    let mocks = [theTailorist, workoutTracker, weatherDashboard, teamGenerator, noteTaker, followTheReader];
+    let mocks = [theTailorist, workoutTracker, weatherDashboard, teamGenerator, herbYourEnthusiasm, followTheReader];
 
     function createGrid() {
         let results = [];
