@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f540b6baa0f8f3041dbc6824a6f3ef4e",
+    "revision": "7aef5ae81138fef472f80eae4b965b55",
     "url": "/React_Portfolio/index.html"
   },
   {
-    "revision": "60f78acec24f32c79c17",
+    "revision": "329a0d4066e4a05db8d2",
     "url": "/React_Portfolio/static/css/main.6e88c02f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Portfolio/static/js/2.813c8fb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60f78acec24f32c79c17",
-    "url": "/React_Portfolio/static/js/main.a68b59b3.chunk.js"
+    "revision": "329a0d4066e4a05db8d2",
+    "url": "/React_Portfolio/static/js/main.51b9e120.chunk.js"
   },
   {
     "revision": "8ce534014186303edb41",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Portfolio/static/media/followTheReader.bf3d62ca.png"
   },
   {
-    "revision": "b90c56ebf73359c38a265bc85ea46726",
-    "url": "/React_Portfolio/static/media/noteTaker.b90c56eb.png"
+    "revision": "d876cc9692571db1b16cce9a0be68f43",
+    "url": "/React_Portfolio/static/media/herbYourEnthusiasm.d876cc96.png"
   },
   {
     "revision": "601dc99f54f0a0ba539e2bdc01912081",
